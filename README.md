@@ -6,4 +6,3 @@ My Certificate URL : https://insidesherpa.s3.amazonaws.com/completion-certificat
 
 
 
-
